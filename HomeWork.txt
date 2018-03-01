@@ -1,4 +1,4 @@
-<!-- Create a .html document and in the body tag format the passage with
+<!-- Create a "yourname.html" document and in the body tag format the passage with
 <h1>
 <h2>
 <p>
