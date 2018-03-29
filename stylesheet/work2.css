@@ -1,0 +1,121 @@
+body, html,h1{
+	margin: 0;
+	padding: 0;
+}
+.colour-box{
+	position: absolute;
+	width: 20%;
+	height: 100vh;
+	background: black;
+}
+.colour1{
+position: relative;
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: relative;
+	left: 30px;	
+}
+.colour2{
+position: relative;
+	width: 90px;
+	height: 50px;
+	background: blue;
+	position: relative;
+	left: 30px;	
+}
+.colour3{
+position: relative;
+	width: 90px;
+	height: 50px;
+	background: white;
+	position: relative;
+	left: 50px;	
+}
+.colour4{
+position: relative;
+	width: 90px;
+	height: 80px;
+	background: orange;
+	position: relative;
+	left: 60px;	
+}
+.colour5{
+position: relative;
+	width: 80px;
+	height: 50px;
+	background: yellow;
+	position: relative;
+	left: 80px;	
+}
+.colour6{
+position: relative;
+	width: 90px;
+	height: 60px;
+	background: blue;
+	position: relative;
+	left: 70px;	
+}
+.colour7{
+position: relative;
+	width: 60px;
+	height: 40px;
+	background: orange;
+	position: relative;
+	left: 50px;	
+}
+.head{
+	width: 80%;
+	height: 30%;
+	position: absolute;
+	left: 20%;
+	background:yellow;
+}
+	.head h1{  
+	font-size: 50px;
+	text-align: center;
+	padding-top: 30px; 
+	font-family: jokerman;
+	font-weight: 400;
+	} 
+	.head span{
+		background: black;
+		color:white;
+		border-radius: 100px;
+		padding: 20px 30px;
+	}
+.content{
+	position: absolute;
+	background: orange; 
+	width: 80%;
+	height: 70%;
+	left: 20%;
+	top: 30%;
+}
+.picture{
+	width: 50%;
+	height: 100%;
+	background: url(Que.jpg);
+	background-size: cover;
+	float: left;
+}
+.name{
+	width: 50%;
+	height: 100%;
+	float: right;
+	font-size: 45px;
+	padding-top: 100px; 
+	font-family: Algerian;
+	font-weight: 900px;
+	text-align: center;
+} 
+
+.h1{   
+	font-size: 45px;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: 100px;
+	padding-right: 100px; 
+	font-family: Algerian;
+	font-weight: 900px;
+}
