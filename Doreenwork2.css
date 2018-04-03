@@ -1,0 +1,102 @@
+body,html,h1{
+   margin: 0;
+   padding: 0;
+}
+.color-box{
+	position: absolute;
+	width: 20%;
+	height: 100vh;
+	background: black;
+}
+.color1{
+	width: 150px;
+	height: 50px;
+	background: green;
+	position: relative;
+	left: 50px;
+}
+.color2{
+	width: 100px;
+	height: 150px;
+	background: purple;
+	position: relative;
+	left: 30px;
+}
+.color3{
+   width: 50px;
+   height: 100px;
+   background: blue;
+   position: relative;
+   left: 60px;
+}
+.color4{
+	width: 200px;
+	height: 100px;
+	background: red;
+	position: relative;
+	right: 100px;
+}
+.color5{
+	width: 100px;
+	height: 150px;
+	background: teal;
+	position: relative;
+	left: 100px;
+}
+.color6{
+	width: 150px;
+	height: 100px;
+	background: orange;
+	position: relative;
+	right: 50px;
+}
+.head{
+	width: 80%;
+	height: 30%;
+	position: absolute;
+	left: 20%;
+	background: blue;
+}
+.head h1{
+	font-size: 90px;
+	text-align: center;
+	padding-top: 50px;
+	font-family: "TT Firs",sans-serif;
+	font-weight: 900;
+}
+.head span{
+	background: black;
+	color: white;
+	border-radius: 100px;
+	padding: 20px 30px;
+}
+.content{
+	position: absolute;
+	background: teal;
+	width: 80%;
+	height: 70%;
+	left: 20%;
+	top: 30%;
+}
+.pic{
+	width: 50%;
+	height: 100%;
+	background: url(dee2131.jpg);
+	background-size: cover;
+	float: left;
+}
+.name{
+	width: 50%;
+	height: 100%;
+	float: right;
+	text-align: center;
+	font-size: 50px;
+}
+	
+	
+
+
+
+
+
+  
