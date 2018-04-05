@@ -1,0 +1,26 @@
+body,html,h1,h2,p{
+	margin: 0;
+	padding:0;
+}
+nav{
+	position: fixed;
+	background: black;
+}
+.top{
+	height: 100vh;
+	background: url(1.png) no-repeat 900px -300px, 
+	url(ig.png) no-repeat -147px 331px,url(girl.jpg) no-repeat 600px #3F51B5;
+	background-size: contain;
+
+}
+.mid{
+	height: 100vh;
+	background: #FFC107;
+}
+.end{
+	height: 100vh;
+	background: #E91E63}
+footer{
+	height: 200px;
+	background: #000;
+}
