@@ -1,0 +1,158 @@
+body,html,h1{
+	margin: 0;
+	padding: 0;
+}
+.side-box{
+	background: #B47676;
+	width: 20%;
+	height: 100vh;
+	position: absolute;
+}
+.sb1{
+	background: red;
+	width: 60px;
+	height: 60px;
+	position: relative;
+    top: 600px;
+    left: 160px;
+
+}
+.sb2{
+	background: yellow;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 70px;
+}
+.sb3{
+	background: green;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	top: 420px;
+	left: 100px;
+}
+.sb4{
+	background: black;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	top: 300px;
+	left: 50px;
+}
+.sb5{
+	background: orange;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	bottom: 300px;
+	left: 100px;
+
+}
+.sb6{
+	background: blue;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 225px;
+	left: 50px;
+}
+.sb7{
+	background: pink;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 225px;
+	left: 100px;
+}
+.sb8{
+	background: white;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 225px;
+	left: 150px;
+}
+.sb9{
+	background: purple;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 225px;
+	left: 200px;
+}
+.sb10{
+	background: #1b9987;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	left: : 50px;
+	bottom: 60px;
+}
+.sb11{
+	background: #7bbce6;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 180px;
+	left: 50px;
+}
+.sb12{
+	background: #8cf6ef;
+	width: 60px;
+	height: 60px;
+	position: relative;
+	bottom: 345px;
+	left: 150px;
+}
+.head{
+	width: 80%;
+	height: 30%;
+	position: absolute;
+	left: 20%;
+	background: #eacbea;
+}
+
+.head h1{
+	font-size: 50px;
+	text-align: center;
+	padding-top: 50px;
+	font-family: "Engravers MT","TT Firs",sans-serif;
+	font-weight: 800; 
+	color: #a20f24;
+}
+.head span{
+	background: white;
+	color: #a20f24;
+	border-radius: 80px;
+	padding: 30px 30px;
+
+}
+.content{
+	position: absolute;
+	background: #F6DDDD;
+	width: 80%;
+	height: 70%;
+	left: 20%;
+	top: 30%;
+
+}
+.pic{
+	width: 50%;
+	height: 100%;
+	background: url(Beads.jpg);
+	background-size: cover;
+	float: left;
+}
+.name{
+	width: 50%;
+	height: 100%;
+	float: right;
+	font-size: 50px;
+	font-family: "Lucida Handwriting","Harlow Solid Italic";
+	text-align: center;
+	font-weight: 800;
+	position: relative;
+	top: 50px;
+	color: #a20f24;
+}
